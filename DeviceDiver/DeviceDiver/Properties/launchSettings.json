@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "DeviceDiver": {
+      "commandName": "Project",
+      "commandLineArgs": "DC\r\n4\r\n100\r\nV",
+      "sqlDebugging": true
+    }
+  }
+}
